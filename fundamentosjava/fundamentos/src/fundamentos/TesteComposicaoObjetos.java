@@ -1,6 +1,6 @@
 package fundamentos;
 
-public class ComposicaoObjetos {
+public class TesteComposicaoObjetos {
 
 	public static void main(String[] args) {
 		
