@@ -2,5 +2,5 @@ package fundamentos;
 
 public interface IFuncionario {
 
-	public void autenticar();
+	public abstract boolean autenticar(boolean b);
 }

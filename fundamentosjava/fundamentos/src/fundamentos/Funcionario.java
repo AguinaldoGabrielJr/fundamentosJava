@@ -31,4 +31,8 @@ public abstract class Funcionario implements IFuncionario {
 		this.fone = fone;
 	}
 
+	@Override
+	public boolean autenticar(boolean b) {
+		return b;
+	}
 }
